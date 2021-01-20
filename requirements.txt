@@ -21,7 +21,7 @@ mosql==0.11               # via json2sql
 oauthlib==2.0.2           # via flask-oauthlib, requests-oauthlib
 pytimeparse==1.1.6
 pytz==2016.10             # via apscheduler, tzlocal
-pyyaml==3.12              # via clickclick, connexion, json2sql
+pyyaml==5.4              # via clickclick, connexion, json2sql
 requests-oauthlib==0.8.0  # via flask-oauthlib
 requests==2.13.0          # via connexion, requests-oauthlib
 six==1.10.0               # via apscheduler, connexion, sqlalchemy-utils, swagger-spec-validator
