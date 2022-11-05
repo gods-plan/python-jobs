@@ -30,7 +30,7 @@ sqlalchemy==1.1.9         # via sqlalchemy-utils
 strict-rfc3339==0.7       # via connexion
 swagger-spec-validator==2.0.2  # via connexion
 tzlocal==1.3              # via apscheduler
-uwsgi==2.0.14
+uwsgi==2.0.17
 werkzeug==0.11.15         # via flask
 raven[flask]
 
