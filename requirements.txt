@@ -34,3 +34,4 @@ uwsgi==2.0.14
 werkzeug==0.11.15         # via flask
 raven[flask]
 
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
