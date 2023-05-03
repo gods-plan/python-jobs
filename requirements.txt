@@ -11,7 +11,7 @@ connexion==1.1.5
 daiquiri==1.3.0           # via json2sql
 flask-oauthlib==0.9.3
 flask-script==2.0.5
-flask==0.12               # via connexion, flask-oauthlib, flask-script
+flask==2.2.5               # via connexion, flask-oauthlib, flask-script
 itsdangerous==0.24        # via flask
 jinja2==2.9.5             # via flask
 json2sql==1.0.0rc1
