@@ -23,7 +23,7 @@ pytimeparse==1.1.6
 pytz==2016.10             # via apscheduler, tzlocal
 pyyaml==3.12              # via clickclick, connexion, json2sql
 requests-oauthlib==0.8.0  # via flask-oauthlib
-requests==2.13.0          # via connexion, requests-oauthlib
+requests==2.31.0          # via connexion, requests-oauthlib
 six==1.10.0               # via apscheduler, connexion, sqlalchemy-utils, swagger-spec-validator
 sqlalchemy-utils==0.32.14
 sqlalchemy==1.1.9         # via sqlalchemy-utils
